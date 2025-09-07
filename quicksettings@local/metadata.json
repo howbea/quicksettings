@@ -1,0 +1,8 @@
+{
+  "name": "QuickSettings",
+  "description": "Quicksettings",
+  "uuid": "quicksettings@local",
+  "shell-version": [
+    "48"
+  ]
+}
