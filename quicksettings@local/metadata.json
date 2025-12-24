@@ -1,8 +1,8 @@
 {
-  "name": "QuickSettings",
+  "name": "QuickSettingswww",
   "description": "Quicksettings",
-  "uuid": "quicksettings@local",
+  "uuid": "quicksettingswww@local",
   "shell-version": [
-    "48"
+    "49"
   ]
 }
